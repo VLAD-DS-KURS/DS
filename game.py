@@ -1,5 +1,5 @@
 """Игра угадай число"""
-
+ 
 import numpy as np
 
 number = np.random.randint(1, 100) # загадываем число
